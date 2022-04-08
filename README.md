@@ -1,13 +1,14 @@
 # Redux quiz group project
 
-Replace this readme with your own information about your project.
+This week, we practiced working in a real dev team through mob programming.
+We've built a quiz using React, Redux and styled components.
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
-
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Users should be able to:
+1. view the optimal layout for the site depending on their device's screen size
+2. answer questions and get feedback regarding their anwer right away. If correct, it should show correct, if incorrect, it should show in correct.
+3. After an answer has been selected, all answers will be disabled so users can't change their answer or submit more than 1 answer.
+4. see a summary page of their answers and their score.
+5. learn about recycling! 
 
 ## View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+ https://redux-recycling.netlify.app/
